@@ -8,12 +8,12 @@ import com.jfixby.cmns.api.collections.List;
 import com.jfixby.cmns.api.json.Json;
 import com.jfixby.lu.MobiliteitIO;
 import com.jfixby.lu.mobiliteit.geo.GeoLocation;
-import com.jfixby.red.desktop.DesktopAssembler;
+import com.jfixby.red.desktop.DesktopSetup;
 
 public class ListBusesByStation {
 
 	public static void main (String[] args) throws IOException {
-		DesktopAssembler.setup();
+		DesktopSetup.deploy();
 		Json.installComponent(new RedJson());
 
 		GeoLocation targetPoint = new GeoLocation(6.1577337, 49.6270327, 18);// @49.6270327,6.1577337,18z
