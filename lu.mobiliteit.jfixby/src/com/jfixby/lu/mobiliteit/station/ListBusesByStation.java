@@ -3,12 +3,12 @@ package com.jfixby.lu.mobiliteit.station;
 
 import java.io.IOException;
 
-import com.jfixby.cmns.adopted.gdx.json.RedJson;
-import com.jfixby.cmns.api.collections.List;
-import com.jfixby.cmns.api.desktop.DesktopSetup;
-import com.jfixby.cmns.api.json.Json;
 import com.jfixby.lu.MobiliteitIO;
 import com.jfixby.lu.mobiliteit.geo.GeoLocation;
+import com.jfixby.scarabei.adopted.gdx.json.RedJson;
+import com.jfixby.scarabei.api.collections.List;
+import com.jfixby.scarabei.api.desktop.DesktopSetup;
+import com.jfixby.scarabei.api.json.Json;
 
 public class ListBusesByStation {
 

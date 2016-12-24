@@ -3,10 +3,10 @@ package com.jfixby.lu.mobiliteit.station;
 
 import java.util.Comparator;
 
-import com.jfixby.cmns.api.collections.CollectionFilter;
-import com.jfixby.cmns.api.collections.Collections;
-import com.jfixby.cmns.api.collections.List;
 import com.jfixby.lu.mobiliteit.geo.GeoLocation;
+import com.jfixby.scarabei.api.collections.CollectionFilter;
+import com.jfixby.scarabei.api.collections.Collections;
+import com.jfixby.scarabei.api.collections.List;
 
 public class StationsList {
 

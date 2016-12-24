@@ -3,9 +3,9 @@ package com.jfixby.lu.mobiliteit.station;
 
 import java.util.ArrayList;
 
-import com.jfixby.cmns.adopted.gdx.io.JsonValue;
-import com.jfixby.cmns.api.json.Json;
-import com.jfixby.cmns.api.json.JsonString;
+import com.jfixby.scarabei.adopted.gdx.io.JsonValue;
+import com.jfixby.scarabei.api.json.Json;
+import com.jfixby.scarabei.api.json.JsonString;
 
 public class Station {
 

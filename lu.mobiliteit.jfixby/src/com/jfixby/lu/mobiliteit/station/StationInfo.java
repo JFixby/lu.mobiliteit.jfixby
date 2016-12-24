@@ -1,9 +1,9 @@
 
 package com.jfixby.lu.mobiliteit.station;
 
-import com.jfixby.cmns.api.collections.List;
-import com.jfixby.cmns.api.util.JUtils;
 import com.jfixby.lu.mobiliteit.geo.GeoLocation;
+import com.jfixby.scarabei.api.collections.List;
+import com.jfixby.scarabei.api.util.JUtils;
 
 public class StationInfo {
 	private String id;
