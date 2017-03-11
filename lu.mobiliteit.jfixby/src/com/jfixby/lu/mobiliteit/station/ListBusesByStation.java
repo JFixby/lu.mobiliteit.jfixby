@@ -5,10 +5,10 @@ import java.io.IOException;
 
 import com.jfixby.lu.MobiliteitIO;
 import com.jfixby.lu.mobiliteit.geo.GeoLocation;
-import com.jfixby.scarabei.adopted.gdx.json.GoogleGson;
 import com.jfixby.scarabei.api.collections.List;
 import com.jfixby.scarabei.api.desktop.ScarabeiDesktop;
 import com.jfixby.scarabei.api.json.Json;
+import com.jfixby.scarabei.gson.GoogleGson;
 
 public class ListBusesByStation {
 
